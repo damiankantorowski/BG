@@ -19,4 +19,5 @@ Grê mo¿na uruchomiæ równie¿ z pliku wykonywalnego Game.exe (mo¿liwy false positi
 Celem gry jest przedostanie siê przez wszystkie poziomy w jak najkrótsztym czasie.
 
 Sterowanie: WSAD + Myszka
+
 Restart: R
