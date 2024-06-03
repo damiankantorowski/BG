@@ -1,12 +1,12 @@
-Projekt zaliczeniowy na przedmiot Bilbioteki Graficzne. Gra platformowa stworzona w jêzyku Python z wykorzystaniem bibliotek ModernGL i PyGame.
+Projekt zaliczeniowy na przedmiot Bilbioteki Graficzne. Gra platformowa stworzona w jÄ™zyku Python z wykorzystaniem bibliotek ModernGL i PyGame.
 
 ![Alt Text](gameplay.gif)
 
-Kod do stworzenia silnika gry napisany zosta³ w oparciu o poradnik z kana³u YouTube Coder Space: https://www.youtube.com/@CoderSpaceChannel
+Kod do stworzenia silnika gry napisany zostaÅ‚ w oparciu o poradnik z kanaÅ‚u YouTube Coder Space: https://www.youtube.com/@CoderSpaceChannel
 
-Tekstury zaczerpniête z: https://www.curseforge.com/minecraft/texture-packs/faithful-64x
+Tekstury zaczerpniÄ™te z: https://www.curseforge.com/minecraft/texture-packs/faithful-64x
 
-Stworzona baza gry pozwala na ³atwe dodawanie nowych poziomów, przeszkód, itp. w klasie Scene.
+Stworzona baza gry pozwala na Å‚atwe dodawanie nowych poziomÃ³w, przeszkÃ³d, itp. w klasie Scene.
 
 Instalacja:
 ```
@@ -14,10 +14,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Grê mo¿na uruchomiæ równie¿ z pliku wykonywalnego Game.exe (mo¿liwy false positive antywirusa ze wzglêdu na brak podpisu).
+GrÄ™ moÅ¼na uruchomiÄ‡ rÃ³wnieÅ¼ z pliku wykonywalnego Game.exe (moÅ¼liwy false positive antywirusa ze wzglÄ™du na brak podpisu).
 
-Celem gry jest przedostanie siê przez wszystkie poziomy w jak najkrótsztym czasie.
+Celem gry jest przedostanie siÄ™ przez wszystkie poziomy w jak najkrÃ³tsztym czasie.
 
 Sterowanie: WSAD + Myszka
+
+Skok: Spacja
 
 Restart: R
